@@ -1,1 +1,0 @@
-This is a sample Java project that shows how to "ping" (ie get the status of) a website by using HttpURLConnection
